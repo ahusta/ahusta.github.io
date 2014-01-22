@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>San's world</title>
+ <title>安徽大学科学技术协会</title>
  <link href="http://ahusta.org/atom.xml" rel="self"/>
  <link href="http://ahusta.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://hueidou.github.com/</id>
+ <id>http://ahusta.org/</id>
  <author>
-   <name>hueidou163</name>
-   <email>hueidou163@gmail.com</email>
+   <name>ahusta</name>
+   <email>ahusta@ahusta.org</email>
  </author>
 
  {% for post in site.posts %}
