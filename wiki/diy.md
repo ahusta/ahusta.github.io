@@ -31,28 +31,18 @@ title: DIY 网站收集
 
 <p><a href="http://makezine.com/projects/" rel="nofollow">Make projects</a>：DIY 杂志《Make》（中文名《爱上制作》）的项目站。杂志中的一些项目，或许能在这里找到</p>
 
-<p><a href="http://blog.arduino.cc/" rel="nofollow">Arduino Blog</a>：Arduino 的官方博客，内有许多 Arduino 项目和使用技巧</p>
+[Arduino Blog](http://blog.arduino.cc/) | [Arduino Forum](http://forum.arduino.cc)：Arduino 的官方博客与论坛，内有许多 Arduino 项目和使用技巧</p>
 
 <p><a href="http://makerzone.mathworks.com/" rel="nofollow">MAKERZONE</a>：MathWorks 的 DIY 项目分享社区，涉及 Arduino，Raspberry Pi，LEGO NXT<p>
 
-[极客工坊](http://www.geek-workshop.com/forum.php) | [Arduino中文社区](http://www.arduino.cn) | [HUDO.IT](http://www.hudo.it)
+[极客工坊](http://www.geek-workshop.com/forum.php) | [Arduino中文社区](http://www.arduino.cn) | [HUDO.IT](http://www.hudo.it) | [Arduino台灣使用者社群](http://arduino.tw/) : Arduino 论坛
 
-<p><a href="http://arduino.tw/" rel="nofollow">Arduino台灣使用者社群</a></p>
+[RoboticFan机器人爱好者](http://www.roboticfan.com/) | [奥松机器人的博客](http://blog.sina.com.cn/robotbase)
 
-<p><a href="http://www.roboticfan.com/" rel="nofollow">RoboticFan机器人爱好者</a></p>
+[Hack a Day](http://hackaday.com/) | [Hack N Mod](http://hacknmod.com/) | [Hacked Gadgets](http://hackedgadgets.com/)
 
-<p><a href="http://blog.sina.com.cn/robotbase" rel="nofollow">奥松机器人的博客</a></p>
-
-<p><a href="http://hackaday.com/" rel="nofollow">Hack a Day</a></p>
-
-<p><a href="http://hacknmod.com/" rel="nofollow">Hack N Mod</a></p>
-
-<p><a href="http://hackedgadgets.com/" rel="nofollow">Hacked Gadgets</a></p>
+[科创论坛](http://bbs.kechuang.org) | [极客迷](http://www.geekfans.com)
 
 <p><a href="http://www.evilmadscientist.com/" rel="nofollow">Evil Mad Scientist</a></p>
 
-<p><a href="http://hackedgadgets.com/" rel="nofollow">奇趣发现</a></p>
-
 <p><a href="http://www.patent-cn.com/" rel="nofollow">专利之家</a></p>
-
-[科创论坛](http://bbs.kechuang.org)
