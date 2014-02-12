@@ -2,7 +2,7 @@
 author: Blanboom
 comments: true
 date: 2014-2-12 14:20:49+00:00
-layout: page
+layout: pages
 slug: diy
 title: DIY 网站收集
 ---
