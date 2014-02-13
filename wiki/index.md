@@ -9,4 +9,4 @@ title: Wiki
 
 - [Arduino 与电子制作](arduino.html)
 - [DIY 网站收集](diy.html)
-- 极客书单
+- 极客书单 | 极客电影 | [极客 Apps](app.html) | 极客工具箱
