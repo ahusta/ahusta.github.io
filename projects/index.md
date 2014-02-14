@@ -5,7 +5,7 @@ title: 项目
 
 # 进行中的项目
 
-科协成员正在进行的 DIY，下面使制作过程中用到的资料。
+科协成员正在进行的 DIY，下面是制作过程中用到的资料。
 
 - [空气质量监测器](environment-monitoring.html)
 - [魔方机器人](cube-robot.html)
